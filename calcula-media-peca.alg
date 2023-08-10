@@ -1,4 +1,6 @@
 algoritmo "Calcular_estoque_medio_peca"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 var
    codigo, quantidade : inteiro
