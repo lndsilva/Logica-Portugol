@@ -1,6 +1,4 @@
 algoritmo "Calcular_estoque_medio_peca"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
 
 var
    codigo, quantidade : inteiro
@@ -18,6 +16,5 @@ inicio
       valor_total <- (quantidade * valor)
       
       escreval("O código da peça ", codigo , " seu valor total é ", valor_total)
-      
 
 fimalgoritmo
